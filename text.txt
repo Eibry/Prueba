@@ -6,4 +6,6 @@ Me gustaría ser desarrollador Fullstack.
 
 Continuaré con la actividad
 
+Subire el avance a GitHub
+
 Estoy escribiendo en texto desde la terminal
