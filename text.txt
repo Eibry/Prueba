@@ -4,4 +4,6 @@ Estoy estudiando Ingeniería en Software.
 
 Me gustaría ser desarrollador Fullstack.
 
+Continuaré con la actividad
+
 Estoy escribiendo en texto desde la terminal
