@@ -1,1 +1,2 @@
-Mi nombre es Abraham Romeo Santana Casas
+Mi nombre es Romeo Santana
+Me gusta programar en Python
